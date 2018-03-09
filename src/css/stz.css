@@ -1,0 +1,55 @@
+.X_table{
+	width: 600px;
+	height: 300px;
+	background: #cff;
+	opacity: 0.4;
+	margin-left: 250px;
+	margin-top: 50px;
+	float: left;
+	text-align: left;
+	border-radius: 10px
+}
+.X_table li{
+	list-style: none;
+}
+.X_table li .lfet_tab{
+	float: left;
+	width: 48%;
+	margin-left: 20px; 
+	margin-top: 30px;
+	display: inline-block;
+	text-align: center;
+	font-weight: bolder;
+}
+.X_table li .right_tab{
+	float: left;
+	width: 40%;
+	display: inline-block;
+	text-align: center;
+	margin-top: 30px;
+	margin-right: 40px;
+	font-weight: bolder;
+}
+.X_table li .lfet_tab span{
+	width: 40%;
+	display: inline-block;
+	padding-right: 80px
+}
+.X_table li .right_tab span{
+	display: inline-block;
+	width: 70%;
+	text-align: center;
+}
+.news{
+	width: 60%;
+	margin-left: 180px
+}
+.news li{
+ list-style: none;
+ text-align: left;
+ line-height: 30px;
+ cursor: pointer;
+}
+.news li span{
+	float: right;
+}

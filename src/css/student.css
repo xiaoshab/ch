@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.nav{
+	width: 120px;
+	margin-top: 30px;
+	margin-left: 30px;
+	float: left;
+}
+.nav .nav-item{
+	list-style: none;
+	color: #ccc;
+	height: 30px;
+	margin-top: 10px;
+}
+
+.nav .nav-item a{
+	text-decoration: none;
+	color: #ccc;
+}
+
+.likes {
+	color:red!important;
+}

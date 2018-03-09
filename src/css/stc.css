@@ -1,0 +1,52 @@
+h2{
+	margin-bottom: 20px
+}
+.M_table li{
+	list-style: none;
+	border: 1px solid;
+	height: 50px;
+	line-height: 50px
+}
+.left{
+	width: 275px;
+	height: 500px;
+	float:left;
+	margin-left: 200px
+}
+.right{
+	width: 275px;
+	height: 500px;
+
+	float: left;
+}
+.M_table{
+	width: 275px;
+	border: 1px solid
+}
+.right .M_table li{
+	text-align: right;
+	width: 275px;
+	
+}
+.right .M_table li span{
+	display: inline-block;
+	width: 125px;
+	text-align: left;
+	margin-left: 30px
+}
+.left .M_table li{
+	text-align: right;
+	width: 275px;
+
+}
+.left .M_table li span{
+	display: inline-block;
+	width: 125px;
+	text-align: left;
+	margin-left: 30px
+}
+.text_xin{
+	text-align: left;
+	line-height: 30px;
+	margin-left: 80px
+}

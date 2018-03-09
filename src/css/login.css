@@ -1,0 +1,48 @@
+.Login{
+	padding-top: 50px;
+	position: absolute;
+	top: 200px;
+	left: 34%;
+	border:10px  double #ccc;
+	width: 350px;
+	height: 300px;
+	background: url(../img/loginbg.jpg);
+	background-size: 100% 100%;
+	opacity: 0.9
+}
+.Login h1{
+	width: 600px;
+	position: absolute;
+	top: -90px;
+	left: -120px;
+	color: #ccc;
+	font-size: 35px;
+	letter-spacing:15px;
+}
+.Login input{
+	width: 200px;
+	height: 30px;
+	margin-top: 15px;
+	padding-left: 5px;
+	letter-spacing:1px;
+	outline: none;
+}
+.Login select{
+	width: 180px;
+	height: 30px;
+	margin-top: 15px;
+	outline: none;
+}
+.Login button{
+	width: 50px;
+	height: 30px;
+	margin-top: 15px;
+	margin-right:10px; 
+}
+a{
+	color:black
+}
+.mima{
+	cursor: pointer;
+	text-decoration: underline;
+}

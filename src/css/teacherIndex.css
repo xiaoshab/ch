@@ -1,0 +1,48 @@
+.classlists{
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+	margin-left: 95px;
+}
+.classlists li{
+	list-style: none;
+	border: 1px solid;
+	width: 25%;
+	height: 40px;
+	line-height: 40px;
+	overflow: hidden;
+}
+.classlist{
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+}
+.classlist li{
+	list-style: none;
+	border: 1px solid;
+	width: 25%;
+	height: 40px;
+	line-height: 40px;
+	overflow: hidden;
+}
+.studentlist{
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+	overflow: hidden;
+	flex:1;
+}
+.studentlist li{
+	list-style: none;
+	border: 1px solid;
+	width: 25%;
+	height: 40px;
+	line-height: 40px;
+	overflow: hidden;
+}
+.studentlists{
+	height: 550px;
+	overflow: auto;
+	width: 80%;
+	margin-left: 95px;
+}
